@@ -73,6 +73,8 @@ Chương trình được thiết kế để hoạt động qua Menu trên Arduin
 
 ### Quy trình Sao chép Thẻ Hoàn chỉnh (Yêu cầu Magic Card)
 
+**NOT DONE**
+
 1.  **[5] Sao chép (Copy):** Đặt thẻ gốc (thẻ cần sao chép) lên đầu đọc. Chương trình sẽ đọc toàn bộ dữ liệu và UID, sau đó lưu vào bộ nhớ.
 2.  **[6] Dán Dữ liệu (Paste Data):** Tháo thẻ gốc ra, đặt Magic Card (thẻ đích) lên đầu đọc. Chương trình sẽ ghi dữ liệu từ block 1-63.
 3.  **[7] Dán UID (Paste UID):** **Giữ nguyên Magic Card trên đầu đọc.** Chọn chức năng này để ghi đè Block 0 với UID của thẻ gốc.
